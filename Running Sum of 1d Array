@@ -10,6 +10,9 @@ Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].
 
 Solution:
 
+
+<addr>
+
 class Solution {
     public int[] runningSum(int[] nums) {
           int toplam=0;
@@ -21,3 +24,5 @@ class Solution {
         return nums;
     }
 }
+
+</addr>
